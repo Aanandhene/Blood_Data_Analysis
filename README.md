@@ -8,7 +8,7 @@
 # INFERENCE #1
 <p> On the total count of 500 samples collected within the institution the most dominant blood group found was O+ve and the lest dominant blood groun is AB-ve.
 
-<img src="./images/BloodAnalysis_page-0001.jpg" alt="sample1">
+![BloodAnalysis_page-0001](https://user-images.githubusercontent.com/91001392/219971318-68d3d1ba-85c7-46dc-9217-359cb83793e2.jpg)
    
 # INFERENCE #2
  <p>Of those 500 samples 129 students are blood donors and 370 are non donars due to their unwillingness and health issues</p>
