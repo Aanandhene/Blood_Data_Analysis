@@ -19,13 +19,13 @@
 
 # INFERENCE #3
    <p>Among 129 donor's  90 have donated their blood atleast once and the rest have donated their v=blood more than once.</p>
-   ![BloodAnalysis_page-0003](https://user-images.githubusercontent.com/91001392/219971323-2fd82ab9-201d-4e43-a7ee-bec2a54fea2c.jpg)
+  
    
    
    
    
 # INFERENCE #4
 <p>The number of non donors who are willing to donate their blood in future is 184, who will be happily donate their blood in nearby needs.</p>
-![BloodAnalysis_page-0004](https://user-images.githubusercontent.com/91001392/219971325-a711cc11-a825-44dc-8ba3-69e9fe73ee61.jpg)
+
 
   
