@@ -12,13 +12,14 @@
    
 # INFERENCE #2
  <p>Of those 500 samples 129 students are blood donors and 370 are non donars due to their unwillingness and health issues</p>
-![BloodAnalysis_page-0002](https://user-images.githubusercontent.com/91001392/219971320-8f13d961-7c60-4878-9333-75a2023d44ba.jpg)
+<img src="images/BloodAnalysis_page-0002.jpg"
 
 
 
 
 # INFERENCE #3
    <p>Among 129 donor's  90 have donated their blood atleast once and the rest have donated their v=blood more than once.</p>
+   <img src="images/BloodAnalysis_page-0003.jpg"
   
    
    
@@ -26,6 +27,7 @@
    
 # INFERENCE #4
 <p>The number of non donors who are willing to donate their blood in future is 184, who will be happily donate their blood in nearby needs.</p>
+<img src="images/BloodAnalysis_page-0004.jpg"
 
 
   
